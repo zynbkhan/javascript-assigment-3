@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+    background-color: black;
+}
+
+.container {
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    border: 4px solid white;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+}
+.container:hover{
+    box-shadow: 12px 8px 80px 12px whitesmoke;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    color: white;
+    background-color: black;
+}
+
+p {
+    font-size: 20px;
+    margin-top: 20px;
+    color: white;
+}
